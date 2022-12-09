@@ -15,7 +15,4 @@ My personal profile on
 - [x] [![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail)](mailto:antoine.bollinger@gmail.com)
 - [x] ![Discord](https://img.shields.io/badge/-AntoineBo%239898-black?logo=discord)
 
-You can talk to me in 
-![FR_20](img/fr.jpg) , 
-![GB_20](img/en.jpg) or 
-![BR_20](img/br.jpg)
+You can talk to me in 🇫🇷, 🇧🇷 or 🇬🇧.
