@@ -7,10 +7,10 @@ See also my [personal profile](https://github.com/antoinebollinger) on Github.
 My personal profile on 
 
 🚧 See my work at:
-- [x] [antoinebollinger.fr](https://antoinebollinger.partez.net), my website as web developper
-- [x] [abollinger.fr/](https://abollinger.partez.net), on which you can find some of my projects
-- [x] [partez.net/](https://partez.net/), my PHP framework project
-- [x] [wiki.partez.net/](https://wiki.partez.net/), the document about my "partez" PHP framework project
+- [x] [antoinebollinger.partez.net](https://antoinebollinger.partez.net), my website as web developper
+- [x] [abollinger.partez.net](https://abollinger.partez.net), on which you can find some of my projects
+- [x] [partez.net](https://partez.net), my PHP framework project
+- [x] [wiki.partez.net](https://wiki.partez.net), the document about my "partez" PHP framework project
  
 📫 Contact-me: 
 - [x] [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/antoinebollinger)
